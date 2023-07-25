@@ -3,4 +3,7 @@ A summary of my work during Google Summer of Code '22. I contributed to OWASP Pu
 
 https://gitlab.com/purpleteam-labs/purpleteam-labs-web
 
-![alt text](https://github.com/shaneg07/GSoC-22/blob/main/Signature.jpg?raw=true)
+
+Preview 1 :
+
+![alt text](https://github.com/shaneg07/GSoC-22/blob/main/assets/Preview1.jpg?raw=true)
