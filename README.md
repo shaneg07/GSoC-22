@@ -2,6 +2,13 @@
 A summary of my work during Google Summer of Code '22. I contributed to OWASP PurpleTeam during this period.
 
 
+A preview of the purpleteam setup:
+
+![alt text](https://github.com/shaneg07/GSoC-22/blob/main/assets/Preview1.jpg?raw=true)
+
+
+https://gitlab.com/purpleteam-labs/purpleteam-labs-web
+
 ## Some issues faced :-
 
 ### Terminfo parse error – 
@@ -42,9 +49,4 @@ After the variables have been set we can give the command
 “source ~/.bashrc” to update the source for terminal.
 
 
-A preview of the purpleteam setup:
 
-![alt text](https://github.com/shaneg07/GSoC-22/blob/main/assets/Preview1.jpg?raw=true)
-
-
-https://gitlab.com/purpleteam-labs/purpleteam-labs-web
